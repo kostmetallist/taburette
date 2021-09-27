@@ -1,4 +1,4 @@
-# Guitar app
+# Taburette
 
 [![License](https://img.shields.io/github/license/kostmetallist/taburette?color=blue)](https://github.com/kostmetallist/taburette/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/kostmetallist/taburette.svg)](https://github.com/kostmetallist/taburette/graphs/contributors/)
@@ -8,6 +8,12 @@
 <p align="center">
   <img src="docs/images/logos/taburette-logo.png" alt="<icon here>" width="75%"/>
 </p>
+
+## Nota bene
+
+**THE PROJECT WAS MIGRATED. PLEASE LOOK THIS [REPO](https://github.com/Tankonstin-Labs/taburette) FOR THE CODE**
+
+## Outlook
 
 Upcoming tablature displaying application built with `Flask`/`SQLAlchemy` for backend and `React`
 for frontend. Full list of planned features can be found in [PRD](docs/PRD.md).
